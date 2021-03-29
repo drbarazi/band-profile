@@ -1872,7 +1872,7 @@ function Delete(props) {
 
   return /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_3__.jsx)("button", {
     onClick: destroy,
-    className: "btn btn-danger",
+    className: "btn btn-danger btn-sm",
     children: "Delete"
   });
 }
